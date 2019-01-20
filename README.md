@@ -5,13 +5,13 @@
 
 - [掘金博客](https://juejin.im/user/5b1f52f6e51d4506a4104a56/posts)
 
-## 你不知道的 JavaScript · 上 
+## 【细读】你不知道的 JavaScript · 上 
 ### 第一卷 作用域和闭包
 #### 第一章·作用域是什么
 
 
 
-## （翻译）30 secondes of code 
+## 【翻译】30 secondes of code 
 **每周精选 ES6 编写的 5 段代码集深入理解，并选 5 个 API 学习，每 30 秒学会一个高质量代码集，扎实 JavaScrit 基础 ！**
 
 
