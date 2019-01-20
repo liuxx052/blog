@@ -3,7 +3,7 @@
 **行动、坚持，种树最好的时间是十年前，其次是现在！每周两篇高质量博文，一直在努力！**
 喜欢的请点 star，想订阅请点 watch 
 
--[掘金博客](https://juejin.im/user/5b1f52f6e51d4506a4104a56/posts)
+- [掘金博客](https://juejin.im/user/5b1f52f6e51d4506a4104a56/posts)
 
 ## 你不知道的 JavaScript · 上 
 ### 第一卷 作用域和闭包
