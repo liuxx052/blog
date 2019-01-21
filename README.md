@@ -6,8 +6,8 @@
 - [掘金博客](https://juejin.im/user/5b1f52f6e51d4506a4104a56/posts)
 
 ## 【细读】你不知道的 JavaScript · 上 
-### 第一卷 作用域和闭包
-#### [1-1 作用域是什么](https://github.com/liuxx052/blog/issues/1)
+#### 第一卷 作用域和闭包
+##### [1-1 作用域是什么](https://github.com/liuxx052/blog/issues/1)
 
 
 
