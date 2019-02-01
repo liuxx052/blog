@@ -14,4 +14,4 @@
 
 ## 【翻译】30 secondes of code 
 一个非常优秀的 JavaScript 项目，总结了大量的使用 ES6 语法实现的代码块，旨在更简洁、高效、快速的实现基础代码模块。 **坚持每周精选 5 段优秀代码块，和 5 个 API ，达到每 30 秒学会使用一个高质量代码块，扎实 JavaScrit 基础 ！**
-- (NO.01)  [ary、 all、 allEqual、 any、 arrayToCSV](https://github.com/liuxx052/blog/issues/2)
+- [【译】30 Seconds of ES6 （一）](https://github.com/liuxx052/blog/issues/2)
