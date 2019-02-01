@@ -8,6 +8,7 @@
 ## 【细读】你不知道的 JavaScript · 上 
 #### 第一卷 作用域和闭包
 - [1-1 作用域是什么](https://github.com/liuxx052/blog/issues/1)
+- [1-2 词法作用域]()
 
 
 
